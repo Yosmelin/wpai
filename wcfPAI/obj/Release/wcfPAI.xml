@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+wcfPAI
+</name>
+</assembly>
+<members>
+<member name="T:Sds.SaludPublica.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Sds.SaludPublica.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Sds.SaludPublica.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:Sds.SaludPublica.paiServicioSDS.seleccionarPersonaIdentificacion(System.Int64)">
+ <summary>
+ Retorna Json { "per_Consecutivo": numero, ["per_TipoId":"Tipo", "per_Id","id"] }
+ </summary>
+ <param name="per_Consecutivo">Numero consecutivo de la persona</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,45 @@
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.config
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.pdb
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.xml
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbprojAssemblyReference.cache
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\Sds.SaludPublica.Resources.resources
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.GenerateResource.cache
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.CoreCompileInputs.cache
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.CopyComplete
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.dll
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.xml
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.pdb
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.dll
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.pdb
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.xml
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.config
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.pdb
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.xml
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.dll
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.pdb
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.xml
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbprojAssemblyReference.cache
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\Sds.SaludPublica.Resources.resources
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.GenerateResource.cache
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.CoreCompileInputs.cache
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.CopyComplete
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.dll
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.xml
+F:\2021\PAI\PAI09092021\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.pdb
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.config
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.pdb
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.xml
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.dll
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.pdb
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.xml
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbprojAssemblyReference.cache
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\Sds.SaludPublica.Resources.resources
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.GenerateResource.cache
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.CoreCompileInputs.cache
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.vbproj.CopyComplete
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.dll
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.xml
+D:\Fuentes\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Release\wcfPAI.pdb

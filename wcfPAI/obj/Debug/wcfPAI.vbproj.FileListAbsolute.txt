@@ -1,0 +1,93 @@
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbprojAssemblyReference.cache
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.GenerateResource.cache
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CoreCompileInputs.cache
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.config
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.pdb
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.xml
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\PAIBL.dll
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\PAIEntity.dll
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\PAIBL.pdb
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\PAIBL.xml
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\PAIBL.dll.config
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\PAIEntity.pdb
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\PAIEntity.xml
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CopyComplete
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.dll
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.xml
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.pdb
+C:\Users\acromero\Documents\Visual Studio 2017\Proyect\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\Sds.SaludPublica.Resources.resources
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.config
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.pdb
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.xml
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.dll
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.pdb
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.xml
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbprojAssemblyReference.cache
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\Sds.SaludPublica.Resources.resources
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.GenerateResource.cache
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CoreCompileInputs.cache
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CopyComplete
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.dll
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.xml
+D:\ProyectosDesarrollo\PAI\PAI09032021_2.42\PAI09032021_2.42\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.config
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbprojAssemblyReference.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\Sds.SaludPublica.Resources.resources
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.GenerateResource.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CoreCompileInputs.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CopyComplete
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.21\PAI\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.config
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbprojAssemblyReference.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\Sds.SaludPublica.Resources.resources
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.GenerateResource.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CoreCompileInputs.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CopyComplete
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2_21 - Copy\PAIV2_21 - Copy\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.config
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.CodeAnalysisLog.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\wcfPAI.dll.lastcodeanalysissucceeded
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.pdb
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\bin\SDS.PAI.wsPaiEntity.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbprojAssemblyReference.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\Sds.SaludPublica.Resources.resources
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.GenerateResource.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CoreCompileInputs.cache
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.vbproj.CopyComplete
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.dll
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.xml
+D:\ProyectosDesarrollo\PAI\PAI\PAIV2.24\PAI_APLICACIONES\Pai\wcfPAI\obj\Debug\wcfPAI.pdb
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\bin\wcfPAI.dll.config
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\bin\wcfPAI.dll
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\bin\wcfPAI.pdb
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\bin\wcfPAI.xml
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\obj\Debug\wcfPAI.vbproj.AssemblyReference.cache
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\obj\Debug\Sds.SaludPublica.Resources.resources
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\obj\Debug\wcfPAI.vbproj.GenerateResource.cache
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\obj\Debug\wcfPAI.vbproj.CoreCompileInputs.cache
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\obj\Debug\wcfPAI.vbproj.CopyComplete
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\obj\Debug\wcfPAI.dll
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\obj\Debug\wcfPAI.xml
+C:\Users\tespitia\Documents\OpenShift\wcfPAI\obj\Debug\wcfPAI.pdb

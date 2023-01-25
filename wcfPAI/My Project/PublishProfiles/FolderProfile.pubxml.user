@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\Contrato 2020 1452384\PAI\Agosto</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/PAIBL.dll">
+      <publishTime>07/29/2020 10:46:28</publishTime>
+    </File>
+    <File Include="bin/PAIBL.dll.config">
+      <publishTime>01/23/2020 08:59:51</publishTime>
+    </File>
+    <File Include="bin/PAIBL.pdb">
+      <publishTime>07/29/2020 10:46:28</publishTime>
+    </File>
+    <File Include="bin/PAIEntity.dll">
+      <publishTime>07/29/2020 10:46:27</publishTime>
+    </File>
+    <File Include="bin/PAIEntity.pdb">
+      <publishTime>07/29/2020 10:46:27</publishTime>
+    </File>
+    <File Include="bin/wcfPAI.dll">
+      <publishTime>07/29/2020 10:46:28</publishTime>
+    </File>
+    <File Include="bin/wcfPAI.pdb">
+      <publishTime>07/29/2020 10:46:28</publishTime>
+    </File>
+    <File Include="bin/wcfPAI.xml">
+      <publishTime>07/29/2020 10:46:28</publishTime>
+    </File>
+    <File Include="paiServicioSDS.svc">
+      <publishTime>03/09/2020 12:51:00</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>07/29/2020 10:46:28</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>03/09/2020 11:50:39</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/29/2020 10:39:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
